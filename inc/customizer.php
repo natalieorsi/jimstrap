@@ -1,10 +1,9 @@
 <?php
 /**
- * Twenty Seventeen: Theme Customizer
+ * Jimstrap: Theme Customizer
  *
  * @package WordPress
- * @subpackage Twenty_Seventeen
- * @since 1.0
+ * @since 0.1
  */
 
 /**
